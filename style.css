@@ -136,10 +136,10 @@ h2 {
   display: flex;
   width: 100%;
   margin-top: 0%;
-  background-image: url(images/shapes/shape-1.png);
-  background-repeat: no-repeat;
-  background-position: left;
-  background-size: 12%;
+  /* background-image: url(images/shapes/shape-1.png);
+  background-repeat: no-repeat; */
+  /* background-position: left;
+  background-size: 12%; */
 }
 .developer h1 {
   font-size: 30px;
